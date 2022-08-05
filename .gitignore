@@ -5,3 +5,4 @@ blog/migrations/
 files/
 .env
 staticfiles/
+template_raw/
